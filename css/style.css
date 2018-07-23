@@ -29,13 +29,22 @@ a:active {
 	font-size:8vw;
 }
 
+.scrunchBottom {
+	margin-bottom: -3vw;
+}
+
+@media screen and (min-width: 1200px) {
+  .title {
+     font-size: 80px;
+  }
+  .scrunchBottom {
+  	margin-bottom: -30px
+  }
+}
+
 .textBody {
 	font-family: 'Source Code Pro', monospace;
 	font-size: .8em;
-}
-
-.scrunchBottom {
-	margin-bottom: -3vw;
 }
 
 .italic {
