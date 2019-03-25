@@ -1,21 +1,21 @@
 /* unvisited link */
 a:link {
-    color: #efb27d;
+    color: #E37474;
 }
 
 /* visited link */
 a:visited {
-    color: #efb27d;
+    color: #E37474;
 }
 
 /* mouse over link */
 a:hover {
-    color: #efb27d;
+    color: #E37474;
 }
 
 /* selected link */
 a:active {
-    color: #efb27d;
+    color: #E37474;
 }
 
 .fancyFont {
